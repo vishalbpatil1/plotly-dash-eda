@@ -14,10 +14,12 @@ in thist project cteate  certain open-source modules that can automate the whole
 
 
 #
-Loading the data into the data frame: Loading the data into the pandas data frame is certainly one of the most important steps in EDA.
+Loading the data into the pandas data frame is certainly one of the most important steps in EDA.
 Note:-Although categorical data is qualitative, it may sometimes take numerical values. in that case graphical presentation (eg.-bar chart, scatter chart) variable not clearly identify.
 In ordinal data order of data variable clearly name with python  object dtype.
 In nominal data level of data variable clearly name with python object dtype.
+
+
 
 
 
