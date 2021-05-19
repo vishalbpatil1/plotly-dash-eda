@@ -89,7 +89,7 @@ app.plotly_dash_eda()
 
 
 #App Structure
-```bash
+
 | Data view     |               |
 | ------------- | --------------|
 | Filter data   |               |
@@ -97,6 +97,6 @@ app.plotly_dash_eda()
 | Statistical plots|  Scatter plot|
 |               |  Bar plot     |
 |               |  histogram plot | 
-```
+
 
 # Application in progress --------
