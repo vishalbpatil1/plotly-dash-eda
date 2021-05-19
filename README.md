@@ -31,7 +31,7 @@ pip install PDEDA
 ```
 
 
-# Application in progress --------
+
 ## This Package Depend On Other Packages:
 ```bash
 #Importing the required libraries for EDA:
@@ -90,7 +90,13 @@ app.plotly_dash_eda()
 
 #App Structure
 ```bash
-
+| Data view     |               |
+| ------------- | --------------|
+| Filter data   |               |
+| ------------- |-------------- |
+| Statistical plots|  Scatter plot|
+|               |  Bar plot     |
+|               |  histogram plot | 
 ```
-[Github file source second](https://github.com/vishalbpatil1)
 
+# Application in progress --------
