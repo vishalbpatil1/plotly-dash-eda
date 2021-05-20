@@ -90,13 +90,26 @@ app.plotly_dash_eda()
 
 #App Structure
 
+|  Tab          |  Sub  Tab     |
+|---------------|---------------|
 | Data view     |               |
-| ------------- | --------------|
 | Filter data   |               |
-| ------------- |-------------- |
 | Statistical plots|  Scatter plot|
-|               |  Bar plot     |
-|               |  histogram plot | 
-
+| Statistical plots |  Bar plot       |
+| Statistical plots |  Histogram plot | 
+| Statistical plots |  Box plot       |
+| Statistical plots |  Pie plot       |
+| Statistical plots  |  Line plot      |
+|  Map plots    | Correlation heat map  |
+|  Map plots    | Covariance heat map  |
+|  Map plots    | Tree map  |
+| Summary plot | Summary plot of all variable|
+| Summary plot | Summary plot of individual variable|
+| Outlier plot |                  |
+| Normality test |                |
+| Pivot table    |                |
+| Other plots     |  Features imp bar plot|
+| Other plots    |  Dot plot |
+| Other plots    |  Sunbrust treemap plot |
 
 # Application in progress --------
