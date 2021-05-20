@@ -1,4 +1,4 @@
-
+[![Downloads](https://static.pepy.tech/personalized-badge/pdeda?period=total&units=international_system&left_color=black&right_color=green&left_text=Downloads)](https://pepy.tech/project/pdeda)
 
 # Plotly Dash EDA
 ```bash
