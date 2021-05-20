@@ -64,11 +64,15 @@ from PDEDA import PD_EDA
 import pandas as pd
 
 
-df = pd.read_csv('data.csv')
 
-
+url='https://raw.githubusercontent.com/vishalbpatil1/EDA-in-jupyter-notebook/main/diamonds.csv'
+df = pd.read_csv(url)
+df=df.sample(2000)
 app=PD_EDA(data=df)
 app.plotly_dash_eda()
+
+
+
 
 # By default, Dash app run on jupyter
 ```
